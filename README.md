@@ -2,8 +2,8 @@
 
 Senior Frontend Engineer with 10+ years of experience building web products and platforms.
 
-I mostly work with React, TypeScript, Astro, Node.js and Sanity.
+My main stack is React, TypeScript, Astro, Node.js and Sanity, with a focus on web platforms, reusable systems, performance and integrations.
 
-I enjoy building fast and reliable web experiences, reusable systems, and solving practical engineering problems.
+I enjoy solving practical engineering problems and building fast, reliable web experiences.
 
 [LinkedIn](https://www.linkedin.com/in/balabanovich/)
